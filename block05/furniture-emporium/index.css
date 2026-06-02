@@ -11,10 +11,15 @@ header {
     color: #dbeae2;
 }
 
+article>h2 {
+    margin-top: 0;
+    color: #dbeae2;
+}
+
 article {
     padding: 1rem;
     background-color: #4d6c5d;
-    color: #dbeae2;
+    color: #e6ede9c5;
     border: 1px solid rgb(169, 206, 188);
     border-radius: 0.5rem;
     width: 400px;
