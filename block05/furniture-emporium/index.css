@@ -7,8 +7,8 @@ body {
 header {
     padding: 1rem;
     border: 1px solid black;
-    background-color: black;
-    color: #cef7e4;
+    background-color: rgba(0, 0, 0, 0.703);
+    color: #dbeae2;
 }
 
 article {
@@ -30,4 +30,17 @@ article {
     color: rgba(198, 198, 198, 0.812);
     font-size: 18px;
     font-weight: normal;
+}
+
+button {
+    padding: 0.5rem;
+    background-color: #dbeae2;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    width: 100%;
+}
+
+button:hover {
+    background-color: #f0f4f2;
 }
